@@ -1,8 +1,10 @@
 Wikifarm: http://www.shoutwiki.com/wiki/Main_Page
-Last update: 2014-06-27
+Last update: 2025-03-22
 
 Details:
 
 There is a category of wikis http://www.shoutwiki.com/wiki/Category:Flat_list_of_all_wikis
+
+API query listwikis shows a list of 4,000 wikis
 
 Run script: python shoutwiki-spider.py > newlist
